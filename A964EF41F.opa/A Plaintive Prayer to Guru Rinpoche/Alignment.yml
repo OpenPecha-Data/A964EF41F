@@ -1,0 +1,28 @@
+segment_sources:
+  P33011F94:
+    type: origin_type
+    relation: translation
+    language: en
+  P3AE05A34:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  a917a36929294ec8b2126a6f65186dea:
+    P33011F94: 89cb37a6ddb84f40822d069da739475b
+    P3AE05A34: 42c5a05fda9e49ed84e2c2c5466ca247
+  00d661aca47f458ea94a6a96a46ac8c8:
+    P33011F94: 9fee6b376db14b4f8662a8d79fbf115f
+    P3AE05A34: f3334700f4bf4ded87fa4292c27c0076
+  e3ae299d37c74e0f9a25ec076f3795dc:
+    P33011F94: f6fb6679ef054549a21d6d8cc4835b85
+    P3AE05A34: 209616f6376d4cfa870b8074395c1722
+  01b0bc963d174ea4baca4629f752639f:
+    P33011F94: c5d1baf6ff2b4b5986709c032c01647d
+    P3AE05A34: 0f41367ee9944eab93ee68bc43921b26
+  05dda209a20a43e8ba3afc74eee6bac6:
+    P33011F94: d5e2acbeee9b4ab7aae5209c74cffbf9
+    P3AE05A34: 39c36ddb2c024c539f3e7a69f1fe129f
+  a97f2ecba26548ca9c72c328afce7e23:
+    P33011F94: ca5a82fb102d421790fae75e3cc53e29
+    P3AE05A34: 6c26853c0f544b10af146cf93356deac

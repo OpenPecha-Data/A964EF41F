@@ -1,0 +1,31 @@
+segment_sources:
+  P33011F94:
+    type: origin_type
+    relation: translation
+    language: en
+  P3AE05A34:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  2ab3e272c28245468c6d67b58d3a3559:
+    P33011F94: c3798cfb1fd34277a8982e54d7bf2118
+    P3AE05A34: b43fb0648a04456282206a23a78bb5ad
+  6f696a004d1446fa9c2d2555b1ff62b9:
+    P33011F94: 69d322ab62164db99bfd970ecd00cf9b
+    P3AE05A34: 285805df102a4e119b18a88f1a369edb
+  74acae1a3a5b46bb83ad85b9b80856cd:
+    P33011F94: 34d080cba427433ab9098a9bb5a9a53d
+    P3AE05A34: 7d8bbb150c3543c19d9d9afc863fd77e
+  96f54405a79840e58776e86422eff77c:
+    P33011F94: 38e88ae7b8fe4677bb0176c128da719a
+    P3AE05A34: a867ff78bb2248c2b2496b387b445838
+  a4c07091d9c4407caea48d476e6d58e8:
+    P33011F94: dabb0fce496b4afba3ee0fcc25016fb6
+    P3AE05A34: 19cf9fd2bd1649688f2ad4dd04726141
+  203fcd57d03440b885dbad07c8883973:
+    P33011F94: 4cdb3742d2a04e62b5aa3cf92728c492
+    P3AE05A34: d0fd13fb536c4dbca9bb2fb8111d3310
+  ae4c1afacf3043dd9e23cde8cb97628d:
+    P33011F94: aaa0e0bcab77406689fd5f201be0f6c9
+    P3AE05A34: 7a88f3089c804eeca50353722ae236c5
